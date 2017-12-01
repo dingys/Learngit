@@ -11,5 +11,10 @@ Creating a new branch is quick AND simple.
 
 add commit
 
+
 fix readme bug
+
+
+dev branch change readme.txt
+
 
